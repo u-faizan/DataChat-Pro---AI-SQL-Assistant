@@ -47,11 +47,6 @@ A powerful Streamlit application that transforms natural language queries into S
    pip install -r requirements.txt
    ```
 
-3. **Run the application**:
-   ```bash
-   python app.py
-
-
 ## 🏃‍♂️ Quick Start
 
 1. **Get your Groq API Key**:
