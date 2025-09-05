@@ -47,16 +47,10 @@ A powerful Streamlit application that transforms natural language queries into S
    pip install -r requirements.txt
    ```
 
-3. **Create requirements.txt** (if not provided):
-   ```txt
-   streamlit>=1.28.0
-   pandas>=1.5.0
-   plotly>=5.15.0
-   langchain>=0.0.300
-   langchain-groq>=0.1.0
-   sqlalchemy>=2.0.0
-   sqlite3
-   ```
+3. **Run the application**:
+   ```bash
+   python app.py
+
 
 ## 🏃‍♂️ Quick Start
 
