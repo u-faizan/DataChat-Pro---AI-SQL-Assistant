@@ -1,0 +1,17 @@
+[project]
+name = "chat-sql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.74",
+    "langchain-groq>=0.3.7",
+    "mysql-connector-python>=9.4.0",
+    "pandas>=2.3.1",
+    "plotly>=6.3.0",
+    "sqlalchemy>=2.0.43",
+    "streamlit>=1.48.1",
+]
