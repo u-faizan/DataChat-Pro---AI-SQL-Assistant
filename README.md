@@ -229,11 +229,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For issues and questions:
-1. Check the troubleshooting section
-2. Review the error messages in the UI
-3. Ensure all dependencies are installed correctly
-4. Verify your API key and database setup
+If you have any issues, questions, or suggestions:
+
+- Check the **Troubleshooting** section.
+- Review the error messages in the UI.
+- Ensure all dependencies are installed correctly.
+- Verify your API key and database setup.
+- Reach out on [LinkedIn](https://www.linkedin.com/in/your-linkedin-u-faizan)  
+- Open an issue in the [GitHub repository](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
+
 
 ## 🔄 Updates and Maintenance
 
