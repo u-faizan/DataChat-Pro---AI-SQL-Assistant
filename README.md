@@ -235,7 +235,7 @@ If you have any issues, questions, or suggestions:
 - Review the error messages in the UI.
 - Ensure all dependencies are installed correctly.
 - Verify your API key and database setup.
-- Reach out on [LinkedIn](https://www.linkedin.com/in/your-linkedin-u-faizan/)  
+- Reach out on [LinkedIn](https://www.linkedin.com/in/u-faizan/)  
 - Open an issue in the [GitHub repository](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
 
 
