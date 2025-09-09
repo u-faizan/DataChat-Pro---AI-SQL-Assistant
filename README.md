@@ -249,6 +249,6 @@ The application includes:
 
 ---
 
-**Made with ❤️ using Streamlit and AI**
+**Made Umar Faizan using LangChain, GroqAI, SQLite and Streamlit and**
 
 Transform your database queries from complex SQL to simple conversations!
