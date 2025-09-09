@@ -47,17 +47,6 @@ A powerful Streamlit application that transforms natural language queries into S
    pip install -r requirements.txt
    ```
 
-3. **Create requirements.txt** (if not provided):
-   ```txt
-   streamlit>=1.28.0
-   pandas>=1.5.0
-   plotly>=5.15.0
-   langchain>=0.0.300
-   langchain-groq>=0.1.0
-   sqlalchemy>=2.0.0
-   sqlite3
-   ```
-
 ## 🏃‍♂️ Quick Start
 
 1. **Get your Groq API Key**:
@@ -240,11 +229,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For issues and questions:
-1. Check the troubleshooting section
-2. Review the error messages in the UI
-3. Ensure all dependencies are installed correctly
-4. Verify your API key and database setup
+If you have any issues, questions, or suggestions:
+
+- Check the **Troubleshooting** section.
+- Review the error messages in the UI.
+- Ensure all dependencies are installed correctly.
+- Verify your API key and database setup.
+- Reach out on [LinkedIn](https://www.linkedin.com/in/u-faizan/)  
+- Open an issue in the [GitHub repository](https://github.com/u-faizan/DataChat-Pro---AI-SQL-Assistant)
+
 
 ## 🔄 Updates and Maintenance
 
