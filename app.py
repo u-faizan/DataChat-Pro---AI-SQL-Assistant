@@ -640,7 +640,7 @@ def main():
                     f"Show all {table_names[0]} data",  # Simplified
                     "List table names",  # More efficient than "What tables do we have"
                     f"Count {table_names[0]} records" if table_names else "Count all records",
-                    "Database summary"  # Simplified
+                    "Summarise the database"  # Simplified
                 ]
             else:
                 suggestions = [
