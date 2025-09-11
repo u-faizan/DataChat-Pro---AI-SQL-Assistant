@@ -645,7 +645,7 @@ def main():
             else:
                 suggestions = [
                     "List all tables",
-                    "Database summary",
+                    "Summarize the database",
                     "Show database structure",
                     "Count total records"
                 ]
