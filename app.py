@@ -434,7 +434,7 @@ def main():
         if api_key:
             st.success("✅ API Key provided")
         else:
-            st.warning("⚠️ Please enter your Groq API key")
+            st.warning("Get your free API key from https://console.groq.com/keys")
         
         st.markdown("---")
         
