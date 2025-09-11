@@ -641,7 +641,7 @@ def main():
                     f"Show me all {table_names[0]} data",  # Simplified
                     "List table names",  
                     f"Count {table_names[0]} records" if table_names else "Count all records",
-                    " Give me the summary of the database"  # Simplified
+                    f"Show me all {table_names[1]} data",  # Simplified
                 ]
             else:
                 suggestions = [
