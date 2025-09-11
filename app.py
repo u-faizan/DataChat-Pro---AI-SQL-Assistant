@@ -635,17 +635,18 @@ def main():
             table_names = list(schema_info.keys()) if schema_info else []
             
             # Optimized suggestions for lower token usage
+            i = "give me the "
             if table_names:
                 suggestions = [
                     f"Show all {table_names[0]} data",  # Simplified
                     "List table names",  # More efficient than "What tables do we have"
                     f"Count {table_names[0]} records" if table_names else "Count all records",
-                    "Summarise the database"  # Simplified
+                    f"{i} Summary of database"  # Simplified
                 ]
             else:
                 suggestions = [
                     "List all tables",
-                    "Summarize the database",
+                    "Summarise the database",
                     "Show database structure",
                     "Count total records"
                 ]
