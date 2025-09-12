@@ -313,16 +313,14 @@ def process_user_query(user_input, api_key):
                 # Enhanced prompt to ensure SQL query is returned
                 enhanced_query = f"{user_input}. Please also show the SQL query you used to get this result."
                 
-                # Optimize query for token usage
-                if "what tables" in user_input.lower() or "tables do we have" in user_input.lower():
-                    enhanced_query = "list all table names and show the SQL query"  # More efficient prompt
+
                 
                 callback_handler = StreamlitCallbackHandler(st.container())
                 response = agent.run(enhanced_query, callbacks=[callback_handler])
                 
                 execution_time = time.time() - start_time
                 
-                show_sql = is_data_query(user_input)
+                # show_sql = is_data_query(user_input)
                 
                 st.write(response)
                 
